@@ -12,7 +12,6 @@
 
 ## other things i did and why you shouldn't access (don't have access to) them
 
-- Trippy VR effects; Not trippy enough & not well documented
 - Soft-bodied robot; Movement not sophisticated enough & files not well organized
 - VR for Brain-Computer-Interfacing; Sealed until I revisit the topic
 - Neural Network stuff and other simulations; Actually interesting but not up to my standard
