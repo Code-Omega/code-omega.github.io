@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+> Art is but method without defined structure and restraint
+>
+> Love is what tethers individuals to others
+>
+> Indulgence in mystery prunes curiosity
 
-You can use the [editor on GitHub](https://github.com/Code-Omega/code-omega.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## accessible projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [X.init](https://xinit.herokuapp.com) A Webapp dedicated to automating financial info processing with NLP and others
+- [Market Making Simulation](https://github.com/Code-Omega/Trader-Evolution), [High Frequency Trading Simulation](https://github.com/Code-Omega/Agent-Based-Simulation-Finance-) Some market simulations; better for studying dynamics and policies than testing individual strategies; the basic framework can always be adapted.
+- [Mulet](https://code-omega.github.io/Mulet/) An old personal creative archive that's out of maintenance
 
-### Markdown
+## other things i did and why you shouldn't access (don't have access to) them
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Trippy VR effects; Not trippy enough & not well documented
+- Soft-bodied robot; Movement not sophisticated enough & files not well organized
+- VR for Brain-Computer-Interfacing; Sealed until I revisit the topic
+- Neural Network stuff and other simulations; Actually interesting but not up to my standard
+- Other Webapps and Data analytic/visualization projects; Enough of them
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Code-Omega/code-omega.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> es.
